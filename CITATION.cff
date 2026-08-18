@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Cranial 3D Computed Tomography for Computer-Aided Identification of Deceased Individuals"
+type: software
+
+abstract: >
+  Four custom-made Python scripts for the computer-aided identification
+  of deceased individuals based on cranial antemortem and postmortem
+  computed tomography scans.
+
+version: "1.0.0"
+
+message: >
+  If you use this software in your research, please cite this software
+  repository.
+
+repository-code: "https://github.com/photorensic"
