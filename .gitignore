@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Medical imaging data
+*.dcm
+*.nii
+*.nii.gz
+
+# Generated analysis data
+data/
+output/
+results/
