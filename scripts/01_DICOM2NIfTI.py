@@ -7,8 +7,8 @@ Created on Fri Aug  8 14:32:46 2025
 # =========================
 # REQUIREMENTS / USAGE
 # =========================
-# - Set "wurzelpfad" to the main data folder.
-# - Set "mapping_datei" to the Excel mapping file path.
+# - Set "root_path" to the main data folder.
+# - Set "mapping_file" to the Excel mapping file path.
 # - Patient folders must be named YY-XXXX/YY-XXXXX (e.g. 23-0647)
 #   or IMA_YY_XXX (e.g. IMA_23_123).
 # - Supported structures:
@@ -16,7 +16,7 @@ Created on Fri Aug  8 14:32:46 2025
 #     MainFolder/Set1|Set2|Set3/PatientFolder
 # - DICOM folders: DICOM_AM and DICOM_PM
 # - "dcm2niix" must be installed and available in PATH.
-# - Mapping file columns: "Originalname" and "NeuerName". 
+# - Mapping file columns: "Original_Name" and "New_Name". 
 # - The file will be created automatically if it does not exist.
 """
 
