@@ -1,7 +1,7 @@
 """
 3D_ID_Project: Segmentations using TotalSegmentator
 
-@author: D.Neuhaus and Schoeb-ID, adapted from A.Zirn
+@author: tbd
 
 
 # =========================
