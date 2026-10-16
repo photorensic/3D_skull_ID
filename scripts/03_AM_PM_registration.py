@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Schoeb-ID, adapted from D. Neuhaus
+@author: tbd
 
 # =========================
 # REQUIREMENTS / USAGE
